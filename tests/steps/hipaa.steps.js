@@ -1,1 +1,0 @@
-const { Given, When, Then } = require('@cucumber/cucumber'); Given('sensitive data is entered', async function () {}); When('the data is processed', async function () {}); Then('it is encrypted per HIPAA standards', async function () {});
