@@ -1,0 +1,28 @@
+
+{
+  "patients": [
+    {
+      "id": "12345",
+      "name": "John Smith",
+      "dob": "1980-05-15",
+      "gender": "Male",
+      "mrn": "MRN123456"
+    },
+    {
+      "id": "67890",
+      "name": "Jane Doe",
+      "dob": "1990-08-22",
+      "gender": "Female",
+      "mrn": "MRN789012"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "appt1",
+      "patientId": "12345",
+      "date": "2025-07-01",
+      "time": "10:00",
+      "provider": "Dr. Brown"
+    }
+  ]
+}
